@@ -7,7 +7,7 @@ This Project can be used in any Organization or Public place to allow or not all
   ![image](https://user-images.githubusercontent.com/67271184/119336928-dd1c9700-bcab-11eb-83cb-60177664613d.png)
   
   
-  
+<font size=14> 
 Masks are a key measure to suppress transmission and save lives.
 Masks should be used as part of a comprehensive ‘Do it all!’ approach including physical distancing, avoiding crowded, closed, and close-contact settings, good ventilation, cleaning hands, covering sneezes and coughs, and more.
 Depending on the type, masks can be used for either protection of healthy persons or to prevent onward transmission.
@@ -53,5 +53,5 @@ Above I am getting an accuracy of 100% for not wearing a mask and acc of 99% for
 
  
 
-
+  </font>
   
